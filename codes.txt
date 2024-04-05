@@ -1,0 +1,4 @@
+NoBush - 758938.rpf			Aimbot - 78546.rpf
+NoRecoil - 623647.rpf			Fast Run - 66623.rpf
+NoRoll - 157482.rpf			MAGIC BULLET - 184000.rpf
+SuperJump - 0294001.rpf			BMX FLY - 25685.rpf
